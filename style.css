@@ -19,7 +19,7 @@
     align-items: center;
 }
 
-.ul_Navbar_index{
+.ul_Navbar_Home{
     background-color: #ff0022f3;
     height: 10vh;
     display: flex;
@@ -127,5 +127,4 @@
     align-items: center;
     font-size: x-large;
 }
-
 
